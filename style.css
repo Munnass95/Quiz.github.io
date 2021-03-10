@@ -1,0 +1,46 @@
+   body {
+   	background-color: white;
+   	font-size: 20px;
+   	font-family: monospace;
+   	color: #333;
+
+   	padding: 20px;
+   	margin: auto;
+   	justify-content: center;
+   	align-items: center;
+   	width: 65vh;
+   	border: 5px solid green;
+   	vertical-align: middle;
+   }
+
+   #head {
+   	text-align: center
+   }
+
+
+   .question {
+   	font-weight: 600;
+
+
+   }
+
+   .answers {
+   	margin-bottom: 20px;
+
+   }
+
+   #submit {
+   	font-family: monospace;
+   	font-size: 20px;
+   	background-color: salmon;
+   	color: #fff;
+   	border: 0px;
+   	border-radius: 3px;
+   	padding: 20px;
+   	cursor: pointer;
+   	margin-bottom: 20px;
+   }
+
+   #submit:hover {
+   	background-color: #3a8;
+   }
